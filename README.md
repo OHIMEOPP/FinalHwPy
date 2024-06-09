@@ -22,4 +22,4 @@ print("及格人數:",count)
 print("輸入的成績是:" , average)
 ```
 # 實作截演示
-![image]([https://github.com/OHIMEOPP/py/blob/main/pycode.png](https://github.com/OHIMEOPP/FinalHwPy/blob/main/FinalHwpy.png))
+![image](https://github.com/OHIMEOPP/py/blob/main/pycode.png](https://github.com/OHIMEOPP/FinalHwPy/blob/main/FinalHwpy.png))
