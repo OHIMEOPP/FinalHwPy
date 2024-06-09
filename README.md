@@ -8,7 +8,7 @@
 ```
 scores  = [int(to_score) for to_score in input().split()]
 ```
-符合成績大於60的to_score都會進入to_scoure
+符合成績大於60的to_score都會進入to_score
 ```
 count = len([to_score for to_score in scores if(int(to_score) > 60)])
 ```
