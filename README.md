@@ -16,10 +16,10 @@ count = len([to_score for to_score in scores if(int(to_score) > 60)])
 ```
 average = sum(scores) /len(scores)
 ```
-輸出及格人數與輸入成績
+輸出及格人數與總平均
 ```
 print("及格人數:",count)
-print("輸入的成績是:" , average)
+print("總平均為:" , average)
 ```
 # 實作截演示
 ![image](https://github.com/OHIMEOPP/FinalHwPy/blob/main/FinalHwpy.png)
